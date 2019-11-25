@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
             editWeight.setText("")
             editHeight.setText("")
             bmi_result.setText("")
-
+//
             imgResult.setImageResource(R.drawable.empty)
         }
     }
